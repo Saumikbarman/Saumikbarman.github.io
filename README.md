@@ -1,4 +1,4 @@
 # friendchat.github.com
 it was the beta version of my website
-Saumikbarman.github.io
+https://saumikbarman.github.io/friendchat.github.com/
 
